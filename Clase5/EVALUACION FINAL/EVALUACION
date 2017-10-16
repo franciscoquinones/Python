@@ -1,0 +1,14 @@
+1._Desaroollar un programa que ingrese n numeros,los alamacene en una lista, imprima esa lista, ymuestre en una lista aparte 
+[max_valor, sumatoria_elementios_min_valor],deberemos prguntar si se desea ejecutar nuevamente el programa.
+
+2._Desarrollar un programa que al ser (clase primo)instanciado se almacene un atributo numerico e indique si es primo o no,luego llamar un metodo "par" y devuelva si el numero es par o impar.
+Si se elimina el objeto entonces debera mostrar programa terminado-
+
+3._Desarolle un programa que muestre la funcion factorial(n),funcion multiplicacion(n,m),y funcion suma(n,m)
+para acceder a ellas debemos ingresar el nombre por texto
+posteriormente mostrra el resultado elegido
+
+4._Funcion primo(n) donde n represente la cantidad de numeros primos,es decir se deben mostrar los n primeros primos
+ 
+
+correo a enviar: francisco.quinones.u@gmail.com
